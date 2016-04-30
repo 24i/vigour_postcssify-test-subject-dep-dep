@@ -1,0 +1,25 @@
+{
+  "name": "postcssify-test-subject-dep-dep",
+  "version": "1.0.0",
+  "description": "Test repo for postcssify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigour-io/postcssify-test-subject-dep-dep.git"
+  },
+  "author": "Vigour.io <dev@vigour.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigour-io/postcssify-test-subject-dep-dep/issues"
+  },
+  "homepage": "https://github.com/vigour-io/postcssify-test-subject-dep-dep#readme",
+  "keywords": [],
+  "contributors": [
+    "Shawn Inder <shawn@vigour.io>"
+  ],
+  "dependencies": {},
+  "engines": {}
+}
