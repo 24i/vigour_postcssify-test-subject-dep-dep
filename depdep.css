@@ -1,0 +1,8 @@
+:root {
+  --depdep: 1px;
+  --common: url('depdep');
+}
+
+#depdep {
+  border: var(--depdep);
+}

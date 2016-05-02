@@ -2,7 +2,7 @@
   "name": "postcssify-test-subject-dep-dep",
   "version": "1.0.0",
   "description": "Test repo for postcssify",
-  "main": "index.js",
+  "main": "depdep.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
